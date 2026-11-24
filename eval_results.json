@@ -1,0 +1,49 @@
+[
+  {
+    "n": 4,
+    "prompts": [
+      "organic products rated 4.7 or higher"
+    ],
+    "passed": true,
+    "errors": [],
+    "reply": "#1. Organic Manuka Honey (ID:3) — $29.99 ★4.83 — organic\n\n#2. Organic Acacia Honey (ID:7) — $17.99 ★4.75 — organic\n\n#3. Organic Almonds (ID:13) — $11.99 ★4.75 — organic\n\n#4. Organic Ethiopian Coffee (ID:23) — $16.99 ★4.75 — organic\n\nWould you like to order any of these? Just say yes or give me the number."
+  },
+  {
+    "n": 5,
+    "prompts": [
+      "what is the most expensive honey?"
+    ],
+    "passed": true,
+    "errors": [],
+    "reply": "#1. Organic Manuka Honey (ID:3) — $29.99 ★4.83 — organic\n\nWould you like to order it? Just say yes or give me the number."
+  },
+  {
+    "n": 7,
+    "prompts": [
+      "honey priced between $12 and $16"
+    ],
+    "passed": true,
+    "errors": [],
+    "reply": "#1. Organic Raw Honey (ID:1) — $14.99 ★4.63 — organic  \n\n#2. Wildflower Honey (ID:2) — $12.99 ★3.83 — non-organic  \n\n#3. Orange Blossom Honey (ID:6) — $15.99 ★4.17 — non-organic  \n\nWould you like to order one of these? Just say yes or give me the number."
+  },
+  {
+    "n": 9,
+    "prompts": [
+      "show me coffee",
+      "order the Dark Roast Espresso Blend"
+    ],
+    "passed": true,
+    "errors": [],
+    "reply": "Your Dark Roast Espresso Blend ($14.49) is ready. Please press the Approve button below to complete the purchase."
+  },
+  {
+    "n": 10,
+    "prompts": [
+      "show me coffee",
+      "I'll take one"
+    ],
+    "passed": true,
+    "errors": [],
+    "reply": "Which coffee would you like to order—number 1 or number 2?"
+  }
+]
